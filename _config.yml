@@ -682,7 +682,7 @@ add_this_id:
 
 # Google Analytics
 google_analytics:
-  tracking_id: 108524407-1
+  tracking_id: UA-108524407-1
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
@@ -727,7 +727,7 @@ busuanzi_count:
   total_visitors_icon: user
   total_views: true
   total_views_icon: eye
-  post_views: true
+  post_views: false
   post_views_icon: eye
 
 
@@ -1026,7 +1026,7 @@ vendors:
 #  canvas_nest_nomobile:
 
   # Internal version: 1.0.0
-  # canvas_ribbon: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-ribbon@1/canvas-ribbon.js
+#   canvas_ribbon: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-ribbon@1/canvas-ribbon.js
   canvas_ribbon:
 
 # Assets
